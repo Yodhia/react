@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+// useState is a react HOOK. A hook is a way to add new functionalit to a React component
 
 
 const App= ()=> {
